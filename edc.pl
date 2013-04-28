@@ -2,10 +2,10 @@
 use strict;
 
 ##############################################################################
-# open (INENDE, "</Users/galaher/Documents/Dev/dictionary project/perl/de-en-short.txt") || die "cannot open file de-en-short.txt";
-open (INENDE, "</Users/galaher/Documents/Dev/dictionary project/perl/de-en.txt") || die "cannot open file de-en.txt";
-open (INIP, "</Users/galaher/Documents/Dev/dictionary project/perl/germanwords.txt") || die "cannot open file germanwords.txt";
-open (OUT, ">>/Users/galaher/Documents/Dev/dictionary project/perl/out.txt") || die "cannot open file out.txt";
+# open (INENDE, "<de-en-short.txt") || die "cannot open file de-en-short.txt";
+open (INENDE, "<de-en.txt") || die "cannot open file de-en.txt";
+open (INIP, "<germanwords.txt") || die "cannot open file germanwords.txt";
+open (OUT, ">>out.txt") || die "cannot open file out.txt";
 
 my $englishGermanDict;
 my $inip;
