@@ -7,6 +7,21 @@ open (INENDE, "<de-en.txt") || die "cannot open file de-en.txt";
 open (INIP, "<germanwords.txt") || die "cannot open file germanwords.txt";
 open (OUT, ">>out.txt") || die "cannot open file out.txt";
 
+
+# syntax of de-en.txt file:
+# each line is an entry
+# german on the left, english on the right, delimiter is double colon '::'
+# entries in each language within an entry on a line, are delimiter by a pipe '|'
+# the first entry on the left of the german side correspondes to the first entry on the english side: e.g. 
+# A|B::a|b 
+# where 'A' is the german term for the english term 'a'
+# e.g.
+# Abbau {m} (von Bodenschätzen) [geol.] [min.] | Abbau des Flözes in voller Mächtigkeit | Abbau im Ausbiss einer Lagerstätte | Abbau in regelmäßigen Abständen | Abbau mit Bergversatz | Abbau mit Druckwasser | Abbau mit Schappe | Abbau mit Versatz | Abbau unter Tage | stufenweiser Abbau | völliger Abbau | vollständiger Abbau | vom Ausstrich ansetzender Abbau :: exploitation; carrying; extracting; extraction; cutting; winning | full-seam extraction | level free workings | open stope with pillar | mining with filling | hydraulic mining | auger mining | stowing exploitation | underground stoping | benching work(ing) | exhaustion | complete extraction | patching
+# In widget matches are only against first word (or phrase) in line and the entries are displayed as part of the definition. It does not search through the middle of a line
+# sexuelle Abartigkeit {f} [psych.] :: sexual deviancy; sexual deviance
+# Search term should be carefully updated to the following and the above rules incorporated
+# ^[ ]*SearchTerm[^{:(]
+
 my $englishGermanDict;
 my $inip;
 my @matchTrue;

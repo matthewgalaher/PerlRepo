@@ -1,0 +1,496 @@
+Abarbeitungsfolge {f} 	Operating sequence; sequence of operations
+Abbau {m} [chem.] | thermischer Abbau | biologischer Abbau 	Degradation | thermal degradation | biodegradation
+Abbau {m} (einer Maschine) 	Dismounting (of a machine)
+Abbau {m} (Druck; Vakuum) 	Decay (pressure; vacuum)
+Abbau {m}; Demontage {f}; Abbruch {m}; Schleifung {f} [techn.] | Abbau eines Messestands 	Dismantlement; dismantling | dismantlement of a stand at a fair
+Abbau {m} (von Bodenschätzen) [geol.] [min.] | Abbau des Flözes in voller Mächtigkeit | Abbau im Ausbiss einer Lagerstätte | Abbau in regelmäßigen Abständen | Abbau mit Bergversatz | Abbau mit Druckwasser | Abbau mit Schappe | Abbau mit Versatz | Abbau unter Tage | stufenweiser Abbau | völliger Abbau | vollständiger Abbau | vom Ausstrich ansetzender Abbau 	Exploitation; carrying; extracting; extraction; cutting; winning | full-seam extraction | level free workings | open stope with pillar | mining with filling | hydraulic mining | auger mining | stowing exploitation | underground stoping | benching work(ing) | exhaustion | complete extraction | patching
+Abbau {m} [min.] (Bergbau) 	Mining
+Abwehr {f} 	Defense [Am.]; defence [Br.]
+Abwehr {f} [sport] 	Defense [Am.]; defence [Br.]
+Abänderung {f}; Modifikation {f}; Modifizierung {f}; (teiweise) Änderung {f} (an etw.) | Abänderungen {pl}; Modifikationen {pl}; Modifizierungen {pl}; Änderungen {pl} | Ich habe am urspünglichen Entwurf ein paar Änderungen vorgenommen. 	Modification (to sth.) | modifications | I've made one or two modifications to the original design.
+Appell {m}; Aufruf {m}; dringende Bitte {f} (an) | Appelle {pl}; Aufrufe {pl}; dringende Bitten {pl} 	Appeal (to) | appeals
+Appell {m}; Bitte {f}; Flehen {n}; Gesuch {n}; Befürwortung {f} | zu etw. aufrufen | jds. Bitten nachkommen 	Plea | to make a plea for sth. | to be responsive to sb.'s pleas
+Becher {m} | Becher {pl} 	Mug; cup | mugs; cups
+Becher {m} (Sternbild) [astron.] 	Crater; Cup
+Becher {m}; Becherglas {n} (Labor) | Becher {pl}; Bechergläser {pl} | konischer Becher 	Beaker | beakers | conical beaker
+Besatzung {f}; Verteidigungstruppe {f} [mil.] | Besatzungen {pl} 	Garrison | garrisons
+Besatzung {f} | vollständige Besatzung | die volle Schiffsbesatzung 	Complement | complement; complements | the ship's complement
+Beute {f} 	Booty; booties
+Beute {f}; Opfer {n} 	Quarry
+Beute {f}; Ausbeute {n} [übtr.] | Die Täter haben bei dem Raubüberfall große Beute gemacht. | Die Eindringlinge wurden gestört und flüchteten ohne Beute. | She showed me the loot from her shopping trip. | Mit dem Verkauf von Autos hat er ordentlich Reibach gemacht. 	Loot | The attackers got a lot of loot in the robbery. | The intruders were disturbed and fled without stealing anything / taking any property. | Sie zeigte mir die Ausbeute ihrer Einkaufstour. | He made a lot of loot selling cars.
+Beute {f}; Gewinn {m} 	Spoil
+Beute {f}; Opfer {n} | leichte Beute | Beute machen (auf) 	Prey | easy prey | to prey (on; upon)
+Beute {f} 	Swag
+Beute {f}; Diebesbeute {f} | reiche Beute 	Haul | good haul
+Beute {f}; Fang {m} 	Take
+Fadenkreuz {n}; Fadennetz {n} (Optik) | Fadenkreuze {pl}; Fadennetze {pl} 	Reticle | reticles
+Fadenkreuz {n}; Fadennetz {n} [comp.] [techn.] | die Werkzeugschneide exakt am Fadenkreuz positionieren 	Cross hairs; crosshairs; hair cross; crossed threads | to position the cutting edge accurate on the crosshairs
+Fläche {f} | Flächen {pl} 	Area | areas
+Fläche {f} | Flächen {pl} 	Face; surface | faces; surfaces
+Fläche {f} 	Expanse
+Fläche {f} [math.] 	Area
+Fläche {f}; Ebene {f} | Flächen {pl}; Ebenen {pl} 	Flat | flats
+Frechheit {f} | Frechheit siegt. [Sprw.] 	Cheek; cheekiness | Cheek(iness) gets you everywhere. [prov.]
+Frechheit {f}; Unverschämtheit {f}; Dreistigkeit {f}; Chuzpe {f} | er besaß die Frechheit zu ... 	Impudence | he had the impudence to ...
+Frechheit {f} 	Insolence
+Frechheit {f} 	Barefacedness
+Frechheit {f} 	Brashness
+Frechheit {f} | frech sein 	Brass; brassiness | to have a pair of brass balls [slang]
+Frechheit {f} 	Crust
+Frechheit {f}; Dreistigkeit {f} | Frechheiten {pl}; Dreistigkeiten {pl} 	Effrontery | effronteries
+Frechheit {f} 	Frivolity
+Frechheit {f}; Unverschämtheit {f} 	Nerve
+Frechheit {f} 	Perkiness
+Frechheit {f} | Frechheiten {pl} 	Ribaldry | ribaldries
+Frechheit {f} 	Sassiness; sass
+Frechheit {f} 	Sauce
+Frechheit {f}; Unbescheidenheit {f} 	Immodesty
+Frechheit {f}; Dreistigkeit {f} 	Assurance
+Geschiebe {n} (Sedimente in Flüssen) [geol.] 	Bed load
+Geschiebe {n} [550+] [geol.] 	Pebble (stone); rubble (stone); debris; detritus; drift; boulder; bowlder; slide [Am.]
+Gleitschiene {f}; Schiene {f} | Gleitschienen {pl}; Schienen {pl} 	Runner | runners
+Hagel {m} [meteo.] 	Hail
+Hagel {m}; Salve {f} 	Volley
+Hagel {m} 	Hail
+Hammel {m} | Hammel {pl} 	Mutton | muttons
+Hammel {m} | Hammel {pl} 	Wether | wethers
+Haufen {m} 	Accumulation
+Haufen {m}; Stapel {m}; Stoß {m}; Pack {m} 	Pile
+Haufen {m} 	Clamp
+Haufen {m}; Gruppe {f} | ein jämmerlicher Haufen 	Cluster | a pathetic bunch
+Haufen {m} | ein undisziplinierter Haufen 	Mob | an undisciplined mob
+Haufen {m} 	Bunch
+Haufen {m}; Menge {f} 	Slew
+Heckenschütze {m}; Scharfschütze {m} | Heckenschützen {pl}; Scharfschützen {pl} 	Sniper | snipers
+Herde {f} | Herden {pl} 	Herd | herds
+Herde {f} (Schafherde); Schar {f} | Herden {pl} | in der Herde leben | mit der Herde laufen; in der Herde mitlaufen 	Flock | flocks | to live in herds | (just) follow the herd
+Hochglanz {m} 	Mirrorfinish
+Hut {m}; Mütze {f} | Hüte {pl}; Mützen {pl} | ohne Hut | seinen Hut absetzen | den Hut lüpfen | vor jdm. den Hut ziehen/lüften | Hut ab vor ihm! | Das kannst du dir an den Hut stecken. [übtr.] | unter einen Hut bringen | etw. aus dem Hut machen | auf der Hut sein | auf der Hut sein; wachsam sein 	Hat; titfer [Br.] [coll.] | hats; titfers | without a hat | to take off one's hat; to take one's hat off | to tip one's hat | to raise/lift one's hat to sb. | Hats off to him! | You may just keep it (I don't want to have it). | to unite different interest | to improvise sth. | to be on one's guard; to look out for squalls [fig.] | to be alert for trouble; to be on (the) alert; to be alert; to be on the qui vive
+Hüfte {f} [anat.] | Hüften {pl} | mit wiegenden Hüften | die Arme in die Hüften stützen | bis an die Hüften reichen | um den Leib; um die Hüfte 	Hip | hips | with hips swaying | to put one's hands on one's hips | to come up to the waist | at the hip
+Hüfte {f} (von Tieren) | Hüften {pl} 	Haunch | haunches
+Hüfte {f} [anat.] | Hüften {pl} 	Ilium | ilia
+Kartusche {f} | Kartuschen {pl} 	Cartridge | cartridges
+Kartusche {f} | Kartuschen {pl} 	Cartouche; cartouch | cartouches
+Koffer {m} | Koffer {pl} | sich mit einem schweren Koffer schleppen | im doppelten Boden eines Koffers verstecken 	Case; suitcase | cases; suitcases | to lug a heavy case around | to conceal in the false bottom of a suitcase
+Koffer {m}; Schrankkoffer {m} | Koffer {pl}; Schrankkoffer {m} 	Trunk; wardrobe trunk | trunks
+Koffer {m} | Koffer {pl} | die Koffer packen 	Bag | bags | to pack one's bags
+Koffer {m} (Straßenbau) 	Roadbed
+Laken {n}; Leinen {n} 	Linen
+Lehm {m} [min.] 	Loam
+Lehm {m} (Ton) 	Clay
+Lehm {m} 	Pug
+Loch {n} | Löcher {pl} | ein Loch reißen in | ein Loch bekommen | Schwarzes Loch [astron.] | mit Löchern 	Hole | holes | to tear a hole in | to be holed | black hole | with holes
+Loch {n}; Grube {f} 	Pothole
+Mitleid {n} | mit jdm. Mitleid haben | mit jdm. Mitleid haben | Mein Mitleid hält sich in Grenzen. 	Pity | to have pity on sb.; to take pity on sb. | to pity sb.; to feel sorry for sb. | My pity is limited.
+Mitleid {n}; Erbarmen {n} (mit) | Mitleid haben mit 	Compassion (on; for) | to have compassion on; to take compassion on
+Mitleid {n} 	Charity
+Mitleid {n} 	Commiseration
+Mitleid {n} 	Mercies
+Mitleid {n} 	Mercy
+Mitleid {n} 	Ruth
+Mündungsfeuer {n} 	Muzzle flash
+Nachhut {f} 	Rearguard
+Neuigkeit {f} 	Recentness
+Nieselregen {m}; Sprühregen {m} [meteo.] 	Drizzle; mizzle
+Prellbock {m} | Prellböcke {pl} 	Buffer stop; buffer | buffer stops; buffers
+Regel {f}; Spielregel {f} | Regeln {pl}; Spielregeln {pl} | Regeln und Bestimmungen | in der Regel; im Regelfall | den Regeln entsprechend; gemäß den Regeln | eine Reihe von Regeln für | nach den Regeln | die Regeln einhalten; die Spielregeln einhalten | eine Regel verletzen; von einer Regel abweichen | nach allen Regeln der Kunst | es sich zur Regel machen | die anwendbaren Regeln | eine fast überall anwendbare Regel 	Rule | rules | rules and regulations | as a rule; as a general rule | according to the rules | a set of rules for | under the rules | to play by the rules | to break a rule | by every trick in the book | to make it a rule | the rules applicable | a rule of great generality
+Regel {f} 	Norma
+Rinnsal {n}; Flüsschen {n} 	Rivulet
+Rinnsal {n} 	Rill
+Rinnsal {n} 	Trickle
+Rinnsal {n} | Rinnsale {pl} 	Runlet | runlets
+Rinnsal {n}; Bach {m} | Rinnsale {pl}; Bäche {pl} 	Runnel | runnels
+Rückzug {m} [mil.] | Rückzüge {pl} | auf dem Rückzug | den Rückzug antreten | zum Rückzug blasen 	Retreat | retreats | in the retreat | to retreat; to beat a retreat | to sound the retreat
+Rückzug {m}; Abzug {m} | Rückzüge {pl}; Abzüge | Abzug der Truppen aus ... 	Withdrawal | withdrawals | withdrawal of troops from ...
+Schlaraffenland {n} 	Cockaigne
+Schwenk {m}; Drehung {f} | Schwenks {pl}; Drehungen {pl} 	Swing | swings
+Schwenk {m}; Kameraschwenk {m} [photo.] 	Panorama; pan; panning shot
+Schütze {m}; Gewehrschütze {m} [mil.] | Schützen {pl}; Gewehrschützen {pl} 	Rifleman | riflemen
+Schütze {m} | Schützen {pl} 	Shooter | shooters
+Schütze {m} (Sternbild; Sternzeichen) [astron.] [astrol.] 	Sagittarius; Archer
+Sold {m} [mil.] | in jds. Sold stehen 	Pay | to be in sb.'s pay
+Sperre {f} | Sperren {pl} 	Lock; lockout; barrier | locks; lockouts; barriers
+Sperre {f} 	Elimination
+Sperre {f} 	Detent
+Sperre {f} 	Latch
+Sperre {f} (eines Spielers) [sport] 	Ban (of a player)
+Sperre {f} [comp.] 	Lock-up
+Sperrfeuer {n} [mil.] | Sperrfeuer {pl} 	Curtain fire | curtain fires
+Stollen {m}; Stolle {f}; Weihnachtsstollen {m}; Christstollen {m} [cook.] 	Fruit loaf; fruit cake; stollen [Am.] (eaten at Christmas)
+Stollen {m} (Fußballschuh) | Stollen {pl} 	Stud | studs
+Stollen {m} [min.] (Bergbau) | Stollen {pl} 	Mining gallery; tunnel; adit | mining galleries; tunnels; adits
+Streichkäse {m} [cook.] 	Cheese spread
+Tonne {f} (Gefäß) | Tonnen {pl} 	Barrel; cask | barrels; casks
+Tonne {f}; Traufe {f} | Tonnen {pl}; Traufen {pl} 	Tub | tubs
+Tonne {f}; Megagramm {n} (Massemaß) | Tonnen {pl} | amerikanische Tonne (907,17 kg) | englische Tonne (1016 kg) 	Tonne; metric ton | tonnes; metric tons | ton [Am.]; short ton; US customary ton | long ton; Imperial ton
+Tonne {f} (altes Hohlmaß) 	Tun [Br.]
+Tonne 	Long ton /l.t./
+Trichter {m} | Trichter {pl} | mit einem Trichter versehen | jdn. auf den Trichter bringen [übtr.] 	Funnel | funnels | funneled | to lead sb. on to ...
+Umriss {m}; Umrisslinie {f} | Umrisse {pl}; Umrisslinien {pl} 	Contour | contours
+Umriss {m}; Umrisslinie {f}; Kontur {f}; Silhouette {f}; Profil {n} | Umrisse {pl} 	Outline | outlines
+Verdacht {m}; Verdächtigung {f}; Argwohn {m} (gegen) | Verdächtigungen {pl} | über jeden Verdacht erhaben | unter dem Verdacht | unter Verdacht stehen | haltlose Verdächtigung {f} | Verdacht schöpfen | beim geringsten Verdacht(smoment) | Es verstärkt sich der Verdacht, dass ... | Es besteht der dringende Verdacht, dass ... 	Suspicion (about) | suspicions | above suspicion | on suspicion; on the suspicion | to be under suspicion | groundless suspicion | to become suspicious | on the slightest suspicion | There is a growing suspicion that ... | It is strongly suspected that ...
+Verdacht schöpfen; Lunte riechen [übtr.] 	To smell a rat [fig.]
+Verdacht auf krebserzeugende Wirkung. (Gefahrenhinweis) 	Limited evidence of a carcinogenic effect. (hazard note)
+Vergeltung {f} 	Quittance
+Vergeltung {f} 	Repayment
+Vergeltung {f} | Vergeltungen {pl} 	Requital | requitals
+Vergeltung {f}; Rache {f} | Vergeltungen {pl} 	Retribution; payback | retributions
+Vergeltung {f}; Gegenschlag {m}; Vergeltungsmaßnahme {f} | Vergeltungen {pl}; Gegenschläge {pl}; Vergeltungsmaßnahmen {pl} | als Vergeltung für 	Retaliation | retaliations | as retaliation for
+Vorliebe {f}; Neigung {f} | Vorlieben {pl}; Neigungen {pl} | jeder nach seinen Vorlieben 	Liking | likings | everyone to his taste
+Vorliebe {f}; Schwäche {f} (für) | Vorlieben {pl} 	Partiality (for) | partialities
+Vorliebe {f} | Vorlieben {pl} 	Affectation | affectations
+Vorliebe {f} 	Fondness
+Vorliebe {f} 	Predilection
+Zange {f} | eine Zange {f} | kleine Zange {f} 	Pliers; pincers; nippers; tongs | a pair of pincers; a pair of tongs | pliers
+Zange {f} [med.] 	Forceps
+Zündsatz {m} | Zündsätze {pl} 	Priming charge; primer | priming charges; primers
+Absetzen {n} der Glasur 	Sedimentation
+absetzen {vt} | absetzend | abgesetzt 	To degrade | degrading | degraded
+absetzen | absetzend 	To unseat | unseating
+absetzen; streichen {vt} | absetzend; streichend | abgesetzt; gestrichen | vom Spielplan absetzen 	To drop | dropping | dropped | to drop from the program
+absetzen; abgeben; aussteigen lassen {vt} | absetzend; abgebend; aussteigen lassend | abgesetzt; abgegeben; aussteigen lassen | etw. abgeben bei | jdn. aussteigen lassen; jdn. absetzen 	To drop off | dropping off sth. | dropped off | to drop sth. off at | to drop off sth.
+absetzen; absitzen (von Schiff) [naut.] 	To alight (from ship)
+absetzen; abwerfen {vt} (aus einem Luftfahrzeug) [mil.] | absetzend; abwerfend | abgesetzt; abgeworfen 	To airdrop | airdropping | airdropped
+absetzen | sich absetzen | Verrohrung absetzen | wieder absetzen 	To settle; to deposit; to decant | to settle; to deposit; to decant | to land casing | to redeposit (by water)
+absetzen 	To abut against (layer)
+anlässlich; anläßlich [alt] {prp; +Genitiv} | anlässlich ihres Geburtstages | Veranstaltungen anlässlich des Tags der deutschen Einheit [pol.] 	On the occasion of | to celebrate her birthday | events to mark the Day of German Unity
+ausschlachten | ausschlachtend | ausgeschlachtet | schlachtet aus | schlachtete aus 	To cannibalize [eAm.]; to cannibalise [Br.] | cannibalizing; cannibalising | cannibalized; cannibalised | cannibalizes; cannibalises | cannibalized; cannibalised
+aussichtslos {adj} 	Unpromising
+aussichtslos {adv} | Das Verfahren erscheint aussichtslos. [jur.] 	Unpromisingly | The proceedings appear to have no prospect of success.
+ballern {vi} [ugs.] (exzessiv feiern) | ballernd | geballert 	To lager-lout | lager-louting | lager-louted
+befördern; anheben {vt} | befördernd; anhebend | befördert; angehoben 	To upgrade | upgrading | upgraded
+befördern; fördern {vt} | befördernd; fördernd | befördert; gefördert | befördert; fördert | beförderte; förderte 	To promote | promoting | promoted | promotes | promoted
+befördern; verfrachten {vt} | befördernd; verfrachtend | befördert; verfrachtet 	To convey; to deliver | conveying; delivering | conveyed; delivered
+befördern; transportieren {vt} | befördernd; transportierend | befördert; transportiert 	To ferry | ferrying | ferried
+befördern; transportieren {vt} | befördernd; transportierend | befördert; transportiert 	To cart | carting | carted
+beneiden; missgönnen; neiden {vt} | beneidend; missgönnend; neidend | beneidet; missgönnt; geneidet | beneidet; missgönnt; neidet | beneidete; missgönnte; neidete | jdn. um etw. beneiden; jdm. etw. neiden | Sie ist nicht zu beneiden. 	To envy | envying | envied | envies | envied; envyed | to envy sb. sth. | I don't envy her.
+beneiden {vt} | beneidend | beneidet | beneidet | beneidete 	To grudge | grudging | grudged | grudges | grudged
+brauchbar; gebräuchlich {adj}; zu gebrauchen 	Usable
+deshalb; darum; daher; deswegen; also {adv} | wir können also folgern, dass ... 	Therefore | we can deduce, therefore, that ...
+deshalb; aus diesem Grund 	On that score
+ehemalig {adj} /ehem./ 	Former; onetime
+ehemalig; früher; vormalig {adj} 	Quondam
+ehemalig; einstig {adj} 	Sometime
+eigentlich; tatsächlich; wahrhaftig 	In fact
+eigentlich; ziemlich; ungefähr {adv} 	Rather
+eigentlich; irgendwie {adv} | eigentlich froh 	Sort of [coll.] | sort of glad
+eigentlich; so gut wie; praktisch {adv} 	Virtually
+eigentlich /eigtl./; genau genommen; streng genommen {adv} 	Actually; strictly speaking
+Eigentlich dürfte ich dir ja nicht verzeihen! 	I really shouldn't forgive you!
+Elend {n}; Not {f}; Misere {f} 	Misery
+Elend {n}; Not {f} 	Calamity
+Elend {n} 	Squalor
+Elend {n} 	Unhappiness
+Elend {n} 	Woefulness
+Elend {n} 	Wretchedness
+Elend {n} 	Calamitousness
+elend {adj} 	Miserable
+elend; miserabel; schäbig; erbärmlich {adj} 	Sordid
+elend; verächtlich; erniedrigt {adj} 	Abject
+elend {adj} 	Calamitous
+elend {adv} 	Calamitously
+elend {adv} 	Woefully
+elend; elendig; erbärmlich; sterbenselend; miserabel {adj} 	Wretched
+elend; erbärmlich {adv} 	Wretchedly
+elend aussehen {vi} 	To look seedy
+endgültig; schlüssig {adj} 	Conclusive
+endgültig; für immer {adv} 	For good
+endgültig; ein für alle mal {adv} 	Once and for all
+endgültig {adv} | endgültig zurückgewiesen 	Finally | finally rejected
+endgültig; ultimativ {adj} | abschließende Meinung {f} 	Ultimate | ultimate opinion
+endgültig; abschließend; letzter; letzte {adj} 	Final
+endgültig; abschließend {adj}; End... | der spätere Sieger; der spätere Gewinner | das Endergebnis; das Endresultat (einer Sache) | Das führt letztendlich zum Erfolg. | den Weg für eine spätere Mitgliedschaft/Anerkennung ebnen 	Eventual | the eventual winner | the eventual outcome (of a matter) | That is the way to eventual success. | to pave the way for eventual membership/recognition
+endgültig; definitiv {adj} | Ist das endgültig? 	Definite | Is that definite?
+endgültig; eindeutig; bestimmt {adv} | etw. endgültig beschließen | Wir fahren auf jeden Fall mit dem Fahrrad. 	Definitely; definitively | to decide sth. definitely | We're definitely going by bicycle.
+endgültig; definitiv; zwingend {adj} | zwingende Vorschrift {f}; Mussvorschrift {f} 	Peremptory | peremptory provision
+eng; knapp; schmal; begrenzt {adj} | enger; knapper; schmaler | am engsten; am knappsten; am schmalsten | knapp | ein enger Durchgang | ein schmaler Schlitz; ein enger Spalt 	Narrow | narrower | narrowest | by a narrow margin | a narrow passageway | a narrow slit
+eng; winzig {adj} | enger | am engsten 	Poky; pokey | pokier | pokiest
+eng; innig; intim; vertraut {adj} | enger; inniger; vertrauter | am engsten; am innigsten; innigst; am vertrautesten 	Intimate | more intimate | most intimate
+eng {adv} 	Closely
+eng befreundet 	Chummy
+eng verbunden sein {vi} (mit) 	To affiliate (with, to)
+entgegen {prp; +Dativ} | entgegen meinem Wunsch | entgegen meiner Bitte | entgegen dem Befehl | entgegen allen Erwartungen 	Contrary to; against | against my wishes | contrary to my request | contrary to orders | against all expectations; contrary to all expectations
+entgegen; wider; in Abweichung von 	Contrary to
+entgegen {+Dativ}; im Gegensatz zu | entgegen der landläufigen Meinung / den Schlagzeilen | entgegen der Auffassung der Regierung | im Gegensatz zur letzten Studie | Im Gegensatz zu den Demokraten glaube ich nicht, dass ... 	Pace (rarely used) | pace the normal belief / the headlines | pace the government | pace/contrary to the previous study | Pace the Democrats I do not believe that ...
+entgegen 	Vice
+entgegen treten; sich begegnen 	To encounter
+erbarmungslos; unbarmherzig; mitleidlos {adj} | erbarmungsloser; unbarmherziger; mitleidloser | am erbarmungslosesten; am unbarmherzigsten; am mitleidlosesten 	Merciless | more merciless | most merciless
+erbarmungslos; herzlos {adj} 	Cruel
+erbarmungslos; schonungslos; unbarmherzig {adj} 	Pitiless
+erbeuten; ausplündern; ausnutzen {vt} | erbeutend; ausplündernd; ausnutzend | erbeutet; ausgeplündert; ausgenutzt 	To prey {vi} | preying | preyed
+erbeuten {vt} | erbeutend | erbeutet 	To capture | capturing | captured
+erbeuten 	To carry off
+erfahren {vt} (über) | erfahrend | erfahren | er/sie erfährt | ich/er/sie erfuhr | er/sie hat/hatte erfahren | von jdm. etw. Neues erfahren | Wenn sie das erfährt, gibt es Ärger. 	To find out (about) {found; found} | finding out | found out | he/she finds out | I/he/she found out | he/she has/had found out | to find out sth. new from sb. | There'll be trouble if she finds out.
+erfahren 	To adept
+erfahren; kampferprobt {adj} | ein erfahrener Reisender | ein erfahrener Kämpfer für die Menschenrechte 	Seasoned | a seasoned traveller | a seasoned campaigner for human rights
+erfahren; routiniert; gestanden {adj} 	Experienced
+erfahren {adj} 	Skillfull [Am.]; skilfull [Br.]
+erfahren {adj} 	Sophisticated
+erfahren; bewandert; versiert; sich auskennend (in) 	Versed (in)
+erfahren; geschickt; sachkundig {adj} 	Expert
+erfahren {adv} 	Adeptly
+erfahren {adj} (mit) 	Conversant (in)
+Erfassen {n}; Fassungskraft {f} 	Apprehension
+erfassen; aufnehmen {vt} [comp.] | erfassend; aufnehmend | erfasst; aufgenommen 	To capture | capturing | captured
+erfassen 	To gather
+erfassen; verstehen; begreifen {vt} | erfassend; verstehend; begreifend | erfasst; verstanden; begriffen | erfasst | erfasste 	To apprehend | apprehending | apprehended | apprehends | apprehended
+erfassen {vt} 	To embrace
+erforderlich; notwendig {adj} 	Requisite
+erforderlich {adj} | Es ist erforderlich ... 	Required; needed | It is required ...
+erforderlich {adv} 	Requisitely
+erforderlich {adj} 	Demandable
+ergeben; verfallen {adj} 	Addicted
+ergeben; getreu; zuverlässig; loyal {adj} 	Staunch
+ergeben {adv} 	Acquiescently
+erleichtern {vt} | erleichternd | erleichtert 	To alleviate | alleviating | alleviated
+erleichtern; unterstützen {vt} | erleichternd; unterstützend | erleichtert; unterstützt | erleichtert; unterstützt | erleichterte; unterstützte 	To facilitate | facilitating | facilitated | facilitates | facilitated
+erleichtern; helfen | erleichternd; helfend | erleichtert; geholfen | erleichtert; hilft | erleichterte; half | sich erleichtern 	To relieve | relieving | relieved | relieves | relieved | to relieve oneself
+erleichtern {vt} | erleichternd | erleichtert 	To unburden | unburdening | unburdened
+erleichtern; entlasten {vt} | erleichternd; entlastend | erleichtert; entlastet | erleichtert; entlastet | erleichterte; entlastete 	To lighten | lightening | lightened | lightens | lightened
+erleiden {vt} | erleidend | erlitten | erleidet | erlitt | einen Rückfall erleiden | einen Rückschlag erleiden | einen Vermögensschaden erleiden | ... erlitt eine historische Niederlage | ... erlitten durch ... eine blamable Niederlage 	To suffer; to sustain | suffering; sustaining | suffered; sustained | suffers; sustains | suffered; sustained | to suffer a relapse | to suffer a setback | to suffer pecuniary loss | ... suffered a historical defeat | ... suffered a humiliating defeat at the hands of ...
+erleiden {vt} | erleidend | erlitten 	To endure | enduring | endured
+erschrocken {adj} | erschrocken sein 	Terrified | to be terrified
+erschrocken {adj} 	Scared stiff
+fassungslos {adj} 	Stunned
+flitzen {vi} | flitzend | geflitzt | flitzt | flitzte 	To flit | flitting | flitted | flits | flitted
+flitzen; hetzen {vi} | flitzend; hetzend | geflitzt; gehetzt | flitzt; hetzt | flitzte; hetzte | die Treppe hinunterflitzen 	To scamper | scampering | scampered | scampers | scampered | to scamper down the stairs
+flitzen {vi} | flitzend | geflitzt | flitzt | flitzte 	To whizz | whizzing | whizzed | whizzes | whizzed
+flitzen; sausen {vi} | flitzend; sausend | geflitzt; gesaust 	To hare; to streak | haring; streaking | hared; streaked
+flitzen; schnellen {vi} | flitzend; schnellend | geflitzt; geschnellt 	To dart | darting | darted
+gelungen {adj} 	Successful
+hauchdünn; durchsichtig {adj} 	Filmy; gauzy
+hauchdünn; hauchzart {adj} 	Gossamer
+hauchdünn {adv} 	Gauzily
+inbrünstig; sehnlich {adj} | sein sehnlichster Wunsch 	Fervent; ardent | his greatest wish; his most fervent wish
+inbrünstig {adv} 	Fervently; ardently
+jeweils; entsprechend {adv} 	Respectively
+jeweils; jeweilig {adv} 	At a time
+jeweils; jedesmal 	Always; a time
+kippen {vi} | kippend | gekippt | kippt | kippte 	To tip over | tipping over; tipping | tipped over | tips over | tipped
+kippen | kippend | gekippt | kippt 	To topple | toppling | toppled | topples
+kippen; schräg stellen; seitwärts neigen {vt} | kippend; schräg stellend; seitwärts neigend | gekippt; schräg gestellt; seitwärts geneigt | kippt | kippte 	To tilt | tilting | tilted | tilts | tilted
+kippen; verkanten; schräg stellen; kanten {vt} | kippend; verkantend; schräg stellend; kantend | gekippt; verkantet; schräg gestellt; gekantet | kippt; verkanntet; stellt schräg; kantet | kippte; verkanntete; stellte schräg; kantete 	To cant | canting | canted | cants | canted
+kippen; umschlagen {vi} (sauer werden) (Getränke) [cook.] | Der Wein / die Milch ist schon gekippt. 	To turn; to turn sour; to go off [Br.] (drinks) | The wine / the milk has already turned (sour) / gone off.
+kleinlaut {adj} 	Subdued; abashed
+knapp bemessen sein | Seine Zeit war knapp bemessen. 	To be meagre | His time was limited.
+knapp {adv} 	Concisely
+knapp; kurz {adj} 	Curt
+knapp {adv} 	Curtly
+knapp 	Lean
+knapp 	Scant
+knapp {adv} 	Scantily; scantly
+knapp {adj} | knapper | am knappsten 	Scrimpy | scrimpier | scrimpiest
+knapp {adv} 	Skimpily
+knapp; spärlich; karg; sparsam {adj} 	Skimpy
+knapp halten; kurz halten {vt} | knapp haltend; kurz haltend | knapp gehalten; kurz gehalten 	To skimp | skimping | skimped
+knapp; gedrängt {adj} | knapper | am knappsten 	Terse | terser | tersest
+knapp {adv} 	Tersely
+knapp {adj}; knapp bemessen | Das Geld wird knapp. 	Tight | Money is getting tight.
+knapp 2 Millionen 	Close to 2 million
+knapp an 	Short of
+knapp sein an 	To be hard up for
+knapp werden 	To run short
+knapp; karg; kärglich; knausrig; beschränkt {adj} 	Stinted
+knapp; selten {adj} | knapper; seltener | am knappsten; am seltensten | ein seltenes Exemplar 	Scarce | scarcer | scarcest | a scarce copy
+knapp {adv} 	Scarcely
+knapp; dürftig {adj} | knappe zehn Minuten 	Bare | a bare ten minutes
+Knapp daneben ist auch vorbei. [Sprw.] 	A miss is as good as a mile. [prov.]
+Knirschen {n}; Kratzen {n}; Quietschen {n} 	Grating
+Knirschen {n}; Knacken {n} 	Crunch
+knirschen; krachen {vi} | knirschend; krachend | geknirscht; gekracht 	To crunch; to scrunch | crunching; scrunching | crunched; scrunched
+knirschen | knirschend | geknirscht | knirscht | knirschte 	To gnash | gnashing | gnashed | gnashes | gnashed
+knirschen; kratzen; quietschen {vi} | knirschend; kratzend; quietschend | geknirscht; gekratzt; gequietscht 	To grate | grating | grated
+krachen; Lärm machen | krachend; Lärm machend | gekracht; Lärm gemacht 	To crash; to bang | crashing; banging | crashed; banged
+leichtsinnig 	Flippant
+leichtsinnig {adj} 	Featherbrained
+leichtsinnig {adv} 	Flippantly
+leichtsinnig {adv} 	Giddily
+leichtsinnig; sorglos {adj} 	Careless
+leichtsinnig; waghalsig {adj} | leichtsinniger; waghalsiger | am leichtsinnigsten; am waghalsigsten 	Reckless | more reckless | most reckless
+nieseln {vi} [meteo.] | nieselnd | gerieselt | es nieselt | es nieselte | es hat/hatte genieselt 	To drizzle; to mizzle | drizzling; mizzling | drizzled; mizzled | it drizzles; it mizzles | it drizzled; it mizzled | it has/had drizzled; it has/had mizzled
+notdürftig {adj} | notdürftiger | am notdürftigsten 	Scanty | scantier | scantiest
+Rauschen {n} (auf Übertragungsleitungen) 	Hissing
+Rauschen {n} (AV-Technik) | (weißes) Rauschen (fehlender Bild- oder Tonempfang) <Rauschstörung> 	Noise | white noise
+Rauschen {n} 	Whirring
+rauschen; rascheln {vi} | rauschend; raschelnd | gerauscht; geraschelt | rauscht; raschelt | rauschte; raschelte 	To swish; to swosh; to swoosh | swishing; swoshing; swooshing | swished; swoshed; swooshed | swishes; swoshes; swooshes | swished; swoshed; swooshed
+rauschen; tosen {vi} (Wasser) | rauschend; tosend | gerauscht; getost | rauscht; tost | rauschte; toste 	To brawl; to roar | brawling; roaring | brawled; roared | brawls; roars | brawled; roared
+rauschen; zischen; sausen; vorbeirauschen {vi} | rauschend; zischend; sausend; vorbeirauschend | gerauscht; gezischt; gesaust; vorbeigerauscht | rauscht; zischt; saust; rauscht vorbei | rauschte; zischte; sauste; rauschte vorbei 	To whoosh | whooshing | whooshed | whooshes | whooshed
+rühren | rührt | rührte 	To budge | budges | budged
+rühren; reizen {vt} | rührend | gerührt | rührt | rührte 	To stir | stiring; stirring | stirred | stirs | stirred
+rühren {vt} (Erzaufbereitung) [min.] 	To rabble
+schildern; beschreiben {vt} | schildernd; beschreibend | geschildert; beschrieben | schildert; beschreibt | schilderte; beschrieb 	To depict | depicting | depicted | depicts | depicted
+stattfinden {vi} | stattfindend | stattgefunden 	To take place; to happen | taking place; happening | took place; happened
+stetig; gleichmäßig; unbeirrbar {adj} 	Consistent
+stetig {adj} [math.] 	Continuous
+stetig; ständig {adj} | ein stetiger Warenfluss 	Steady | a steady flow of goods
+stetig differenzierbar [math.] 	Continuously differentiable
+stürzen; abstürzen | stürzend; abstürzend | gestürzt; abgestürzt 	To fall {fell; fallen} | falling | fallen
+stürzen; fallen; hinunterstürzen; herunterfallen 	To plunge
+stürzen | stürzend | gestürzt | stürzt | stürzte 	To overthrow {overthrew; overthrown} | overthrowing | overthrown | overthrows | overthrew
+stürzen | stürzend | gestürzt | stürzt | stürzte 	To overturn | overturning | overturned | overturns | overturned
+stürzen | stürzend | gestürzt | stürzt | stürzte 	To topple | toppling | toppled | topples | toppled
+täuschen; betrügen {vt} | täuschend; betrügend | getäuscht; betrogen | täuscht; betrügt | täuschte; betrog 	To beguile | beguiling | beguiled | beguiles | beguiled
+täuschen | täuschend | getäuscht 	To bluff | bluffing | bluffed
+täuschen | täuschend | getäuscht | täuscht | täuschte 	To delude | deluding | deluded | deludes | deluded
+täuschen | täuschend | getäuscht | täuscht | täuschte 	To hoodwink | hoodwinking | hoodwinked | hoodwinks | hoodwinked
+täuschen; trügen {vt} | täuschend; trügend | getäuscht; getrogen | täuscht; trügt | täuschte; trügte; trog 	To deceive | deceiving | deceived | deceives | deceived
+täuschen; hereinlegen; betrügen | täuschend; hereinlegend; betrügend | jdn. um etw. betrügen 	To fool | fooling | to fool sb. out of sth.
+täuschen; reinlegen | täuschend; reinlegend | getäuscht; reingelegt 	To fox | foxing | foxed
+unheimlich {adv} [ugs.] (äußerst) | unheimlich viel | Es macht unheimlich Spaß. | unheimlich gut; verdammt gut [ugs.]; sagenhaft {adj} 	Terribly; terrifically; incredibly | an incredible amount; a terrific amount [coll.] | It's terrific fun. [coll.] | fucking good [vulg.]
+unheimlich {adj} 	Uncanny
+unheimlich {adv} 	Uncannily
+unheimlich; gespenstig; schauerlich; überirdisch {adj} 	Unearthly; eldritch
+unheimlich; furchterregend; gespentisch; gespensterhaft {adj} | unheimlicher | am unheimlichsten 	Eerie; eery | eerier | eeriest
+unheimlich {adv} 	Eerily
+unheimlich {adv} 	Sinisterly
+unheimlich; gruselig {adj} 	Spine-chilling
+unheimlich; gruselig; erschreckend; angsterregend; schaurig {adj} 	Scary
+unheimlich; übernatürlich; eigenartig {adv} 	Weirdly
+unterfangen 	To prop; to log up; to underpin
+verabschieden {vt} | verabschiedend | verabschiedet | verabschiedet | verabschiedete 	To say goodbye | saying goodbye | said goodbye | says goodbye | said goodbye
+verbergen; verstecken {vt} | verbergend; versteckend | verborgen; versteckt | sich verbergen {vr} 	To hide {hid; hidden} | hiding | hidden | to hide oneself
+verbergen; verhehlen {vt} | verbergend; verhehlend | verborgen; verhehlt | verbirgt; verhehlt | verbarg; verhehlte 	To dissemble | dissembling | dissembled | dissembles | dissembled
+verbergen {vt} | verbergend | verborgen | verbirgt | verbarg 	To burrow | burrowing | burrowed | burrows | burrowed
+verbergen {vt} | verbergend | verborgen 	To bury | burying | buried
+Verderben {n}; Ruin {m} | Verderben {pl} 	Bane; nemesis | banes
+Verderben {n}; Ruin {m}; Untergang {m} | Verderben {pl} 	Perdition | perditions
+Verderben {n} | mit offenen Augen ins Verderben rennen 	Vitiation | to rush headlong into disaster with one's eyes wide open
+verderben; verpatzen {vt} | verderbend; verpatzend | verdorben; verpatzt | verdirbt; verpatzt | verdarb; verpatzte | jdm. die Freude an etw. verderben 	To spoil {spoiled, spoilt; spoiled, spoilt} | spoiling | spoiled; spoilt | spoils | spoiled; spoilt | to spoil so.'s enjoyment of sth.
+verderben {vt} (durch) | verderbend | verdorben | verdirbt | verdarb 	To taint (with) | tainting | tainted | taints | tainted
+verderben; verfaulen {vi} (Lebensmittel) 	To corrupt (food)
+verderben | verderbend | verdirbt | verdarb 	To addle | addling | addles | addled
+verderben {vt} | verderbend | verdorben | verdirbt | verdarb 	To barbarize [eAm.]; to barbarise [Br.] | barbarizing; barbarising | barbarized; barbarised | barbarizes; barbarises | barbarized; barbarised
+verderben | verderbend | verdorben | verdirbt 	To debauch | debauching | debauched | debauches
+verderben {vi} (Nahrung) | verderbend | verdorben 	To go stale; to go off (food) | going stale; going off | gone stale; gone off
+verderben; mindern; entstellen; trüben; stören {vt} | verderbend; mindernd; entstellend; trübend; störend | verdorben; gemindert; entstellt; getrübt; gestört 	To mar | marring | marred
+verderben {vi} (Ernte) 	To be ruined
+verderben {vi} 	To become spoiled
+verderben; schlecht werden {vi} 	To perish
+verderben | verderbend | verdirbt | verdarb 	To vitiate | vitiating | vitiates | vitiated
+verfügbar; flüssig [ugs.] {adj} [fin.] | verfügbares Geld 	Ready | ready money
+verfügbar; vorhanden; erhältlich; gültig {adj} | hochverfügbar {adj} | verfügbare Mittel | nicht verfügbar 	Available | highly available | available funds | unavailable
+verfügbar; vorhanden {adv} | nicht verfügbar {adv} 	Availably | unavailably
+verfügbar; disponibel {adj} | verfügbares Einkommen 	Disposable | disposable income
+verfügbar 	On-hand
+verlegen; legen; anbringen {vt} | verlegend; legend; anbringend | verlegt; gelegt; angebracht | verlegt; legt; bringt an | verlegte; legte; brachte an | Kabel verlegen | Fliesen legen; fliesen 	To lay {laid; laid} | laying | laid | lays | laid | to lay cable | to lay tiles
+verlegen; an falschen Platz legen {vt} | verlegend | verlegt | er/sie verlegt | ich/er/sie verlegte | er/sie hat/hatte verlegt 	To mislay; to misplace | mislaying; misplacing | mislaid; misplaced | he/she mislays; he/she misplaces | I/he/she mislaid; I/he/she misplaced | he/she has/had mislaid; he/she has/had misplaced
+verlegen {adv} 	Self-consciously
+verlegen sein um 	To be at a loss for
+verlegen; bestürzt {adj} 	Confused
+verlegen; betreten {adv} 	Awkwardly
+verlegen machen {vt} | verlegen machend | verlegen gemacht | macht verlegen | machte verlegen 	To nonplus | nonplussing | nonplussed | nonplusses | nonplussed
+verleumden {vt} | verleumdend | verleumdet | verleumdet | verleumdete 	To asperse | aspersing | aspersed | asperses | aspersed
+verleumden {vt} | verleumdend | verleumdet | verleumdet | verleumdete 	To backbite {backbit; backbitten, backbit} | backbiting | backbitten | backbites | backbit
+verleumden {vt} | verleumdend | verleumdet 	To calumny | calumnying | calumnied
+verleumden; diffamieren {vt} | verleumdend; diffamierend | verleumdet; diffamiert | verleumdet | verleumdete 	To defame | defaming | defamed | defames | defamed
+verleumden; schlecht machen; schlechtmachen [alt] {vt} | verleumdend; schlecht machend | verleumdet; schlecht gemacht | verleumdet | verleumdete 	To malign | maligning | maligned | maligns | maligned
+verleumden {vt} | verleumdend | verleumdet | verleumdet | verleumdete 	To traduce | traducing | traduced | traduces | traduced
+verleumden; beleidigen {vt} | verleumdend; beleidigend | verleumdet; beleidigt | verleumdet; beleidigt | verleumdete; beleidigte 	To slur | slurring | slurred | slurs | slurred
+vermuten; annehmen; mutmaßen; unterstellen {vt} | vermutend; annehmend; mutmaßend; unterstellend | vermutet; angenommen; mutgemaßt; unterstellt | er/sie vermutet; er/sie nimmt an; er/sie mutmaßt; er/sie unterstellt | ich/er/sie vermutete; ich/er/sie nahm an; ich/er/sie mutmaßte; ich/er/sie unterstellte | er/sie hat/hatte vermutet; er/sie hat/hatte angenommen; er/sie hat/hatte gemutmaßt; er/sie hat/hatte unterstellt | nehmen wir an ... 	To suppose | supposing | supposed | he/she supposes | I/he/she supposed | he/she has/had supposed | let us suppose ...
+vermuten; erraten; erahnen {vt} | vermutend; erratend; erahnend | vermutet; erraten; erahnt 	To divine | divining | divined
+vermuten; schätzen; ahnen {vt} | vermutend; schätzend; ahnend | vermutet; geschätzt; geahnt | vermutet; schätzt; ahnt | vermutete; schätzte; ahnte | Vermutlich! 	To guess | guessing | guessed | guesses | guessed | I guess so!
+vermuten; mutmaßen; annehmen {vt} | vermutend; mutmaßend; annehmend | vermutet; mutgemaßt; angenommen | vermutet; mutmaßt; nimmt an | vermutete; mutmaßte; nahm an 	To surmise | surmising | surmised | surmises | surmised
+Verraten {n}; Ausplaudern {n}; Verpfeifen {n} [ugs.] 	Whistle-blowing; whistleblowing
+verraten (an); Verrat begehen (an) (auch: offenbaren) | verratend | verraten | er/sie verrät | ich/er/sie verriet | er/sie hat/hatte verraten 	To betray (to) | betraying | betrayed | he/she betrays | I/he/she betrayed | he/she has/had betrayed
+verraten und verkauft sein 	To be sold down the river [fig.]
+verraten; erkennen lassen | verratend; erkennen lassend | verraten; erkennen lassen 	To bespeak {bespoke; bespoken} | bespeaking | bespoken
+Verschütten {n} 	Spillage
+verschütten; umschütten {vt} | verschüttend; umschüttend | verschüttet; umgeschüttet | verschüttet; schüttet um | verschüttete; schüttete um 	To spill {spilled, spilt; spilled, spilt} | spilling | spilled; spilt | spills | spilled; spilt
+verschütten; vergießen; schütten {vt} | verschüttend; vergießend; schüttend | verschüttet; vergossen; geschüttet | verschüttet; vergießt; schüttet | verschüttete; vergoss; schüttete 	To slop | slopping | slopped | slops | slopped
+verschütten {vt} | verschüttend | verschüttet | die verschütteten Bergleute | verschüttete Erinnerungen 	To bury; to submerge | burying; submerging | buried; submerged | the trapped miners | memories buried in the subconscious
+versetzen; an einen anderen Ort bringen; umräumen {vt} | versetzend; umräumend | versetzt; umgeräumt | versetzt | versetzte 	To shift; to move | shifting; moving | shifted; moved | shifts; moves | shifted; moved
+versetzen {vt} (Person) | versetzend | versetzt | versetzt werden 	To transfer | transferring | transferred | to be transferred
+versetzen {vt} (in eine höhere Schulklasse) | versetzend | versetzt | versetzt werden 	To move up | moving up | moved up | to be moved up
+versetzen {vt} | versetzend | versetzt 	To displace | displacing | displaced
+versetzen {vt} | versetzend | versetzt 	To offset {offset; offset} | offseting | offset
+Versetzen Sie sich in meine Lage! 	Put yourself in my place!
+versetzen {vt} [min.] 	To dislocate (within crystals)
+verzweifeln {vi} (an) | verzweifelnd | verzweifelt | verzweifelt | verzweifelte 	To despair (of) | despairing | despaired | despairs | despaired
+vorwerfen | vorwerfend | vorgeworfen 	To accuse | accusing | accused
+zerstreut {adv} 	Absentmindedly
+zerstreut; geistesabwesend {adj} 	Abstracted [fig.]
+zerstreut {adv} 	Diffusedly
+zerstreut; schusselig; schusslig; zerfahren; konfus; gedankenlos; verwirrt {adj} 	Scatterbrained
+zerstreut {adj} | zerstreuter | am zerstreutesten 	Scattered | more scattered | most scattered
+zufällig hören; lauschen 	To overhear {overheard; overheard}
+zufällig stoßen auf; zufällig treffen 	To happen on; to happen upon
+zufällig {adj} | zufälliger | am zufälligsten 	Accidental | more accidental | most accidental
+zufällig {adv} 	Accidently
+zufällig {adv}; durch Zufall | rein zufällig | Wissen Sie zufällig, wie spät es ist? | Hast Du vielleicht eine Lösung dafür? 	By chance | by pure chance | Do you by any chance know the time? | Do you have a solution, by any chance?
+zufällig {adj} | Was für ein Zufall, dass wir uns getroffen haben! 	Coincidental | What a coincidental meeting!
+zufällig {adj} 	Fortuitous
+zufällig {adj} 	Adventitious
+zufällig 	Perchance
+zufällig {adv} 	Perchancely
+zufällig 	Stochastic; stochastical
+zufällig {adj}; per Zufallsprinzip 	At random
+zufällig geschehen {vi} | Zufällig war er ... 	To chance | He chanced to be ...
+zufällig ... sein {m} | etw. zufällig tun | jdn. zufällig treffen 	To happen to be ... | to happen to do sth. | to happen to meet so.
+zufällig {adj}; Zufalls... 	Random
+zufällig; durch Zufall; zufälligerweise 	By accident
+zufällig; flüchtig; gelegentlich {adj} 	Casual
+zufällig; beiläufig {adv} 	Casually
+zufällig {adv} 	Coincidentally; incidentally
+zufällig {adv} 	Fortuitously
+zufällig {adv} 	Haphazardly
+zugig {adj} | zugiger | am zugigsten 	Draughty; drafty [Am.] | more draughty; more drafty [Am.] | most draughty; most drafty [Am.]
+zusätzlich aufladen; hinzufügen {vt} (auf; zu) | zusätzlich aufladend; hinzufügend | zusätzlich aufgeladen; hinzugefügt 	To piggyback (on) | piggybacking | piggybacked
+zusätzlich; andere 	Other
+zusätzlich {adj} 	Supernumerary
+zusätzlich {adv} 	Accessorily
+zusätzlich {adj} 	Accessory
+zusätzlich {adj} | zusätzlicher Aufschlag 	Additional; added | additional markup
+zusätzlich; außerplanmäßig {adj} 	Additional
+zusätzlich; darüber hinaus; darüberhinaus [alt] {adv} 	Additionally
+zusätzlich {adj} 	Auxiliary
+zusätzlich 	Backing
+zusätzlich {adj} 	Additive
+zusätzlich {adv} 	Additively
+zusätzlich {adj}; Zusatz... 	Collateral
+zusätzlich 	Side-bar
+zweifellos; unzweifelhaft {adj} 	Indubitable
+zweifellos; unbestritten; unzweifelhaft {adj} | die zweifelsfreie Ursache 	Undoubted | the undoubted cause
+zweifellos; ohne Zweifel {adv} 	Undoubtedly
+zweifellos 	Undoubtful
+zweifellos {adj} | zweifelloser | am zweifellosesten 	Doubtless | more doubtless | most doubtless
+zweifellos; außer Zweifel 	Beyond doubt
+zweifellos {adv} 	Doubtlessly
+zweifellos {adv} 	Indubitably
+zwischendurch naschen 	To graze
+zwischendurch {adv} 	In between
+überlaufen; überfließen {vi} | überlaufend; überfließend | übergelaufen; überflossen | läuft über | lief über 	To overflow | overflowing | overflowed | overflows | overflowed
+überlaufen; überfließen; überschwappen {vi} | überlaufend; überfließend; überschwappend | übergelaufen; übergeflossen; übergeschwappt 	To slop over | slopping over | slopped over
+überlaufen {vi} | überlaufend | übergelaufen 	To spill {spilled, spilt; spilled, spilt} | spilling | spilled; spilt
+überlegen; bedenken; hin und her überlegen {vt} | überlegend; bedenkend; hin und her überlegend | überlegt; bedacht; hin und her überlegt | überlegt; bedenkt; überlegt hin und her | überlegte; bedachte; überlegte hin und her 	To deliberate | deliberating | deliberated | deliberates | deliberated
+überlegen; abwägen {vt} | überlegend; abwägend | überlegt; abgewägt 	To ponder | pondering | ponderred
+überlegen; übermächtig; stärker {adj} | haushoch überlegen | zahlenmäßig überlegen 	Superior | vastly superior | superior in numbers
+überlegen; beherrschend; vorherrschend {adj} 	Predominant
+überlegen; beherrschend; vorherrschend {adv} 	Predominantly <predominately>
+überlegen sein {vi} 	To have the edge on ...
+THE FOLLOWING WORDs HAD N0 MATCHESAnstößer
+Batzen
+Gemunkel
+Kabuff
+Pimpf
+Tüllgardinen
+ausbaldowern
+auskennen
+buddeln
+bullig
+einig
+einpauken
+erhören
+furchterregend
+gönnen
+matschen
+raunen
+röhren
+sacken
+scheppern
+ständig
+vereist
+verirren
+verkneifen
+verlebt
+verwehren
+vorzüglich
