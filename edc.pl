@@ -2,8 +2,8 @@
 use strict;
 
 ##############################################################################
-# open (INENDE, "<de-en-short.txt") || die "cannot open file de-en-short.txt";
-open (INENDE, "<de-en.txt") || die "cannot open file de-en.txt";
+open (INENDE, "<de-en-short.txt") || die "cannot open file de-en-short.txt";
+# open (INENDE, "<de-en.txt") || die "cannot open file de-en.txt";
 open (INIP, "<germanwords.txt") || die "cannot open file germanwords.txt";
 open (OUT, ">>out.txt") || die "cannot open file out.txt";
 
